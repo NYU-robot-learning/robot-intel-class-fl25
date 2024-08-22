@@ -10,7 +10,6 @@ const config = {
   tagline: 'Fall 2024',
   url: 'https://nyu-robot-learning.github.io/',
   baseUrl: '/robot-intel-class-fl24/',
-  // baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
