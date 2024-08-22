@@ -5,8 +5,8 @@ title: Assignments
 #### Homework 0 - Preliminaries for the class.
 
 LaTeX Template
-* [open in Overleaf](https://www.overleaf.com/read/htqrwnmkshwb)
-* [download source code as .zip](https://www.overleaf.com/project/64f772823442779706895f8f/download/zip)
+* [open in Overleaf](https://www.overleaf.com/read/qfgfxnxmzpwv#68bf19)
+* [download source code as .zip](https://www.overleaf.com/project/66c76561e46c6fef96792171/download/zip)
 
 #### Homework 1
 
@@ -33,8 +33,8 @@ Coding Questions
 * [open with Google Colab](https://colab.research.google.com/drive/1vxZ-r32JFj9Dzq7L_lsJWT7EvdEZkOSn?usp=sharing)
 
 #### Homework 4  
- Project Homework
- * [download as .pdf](https://drive.google.com/file/d/18tSVj6Z7CCGgAbXsuw_SkMFMTTcP6RSM/view?usp=sharing)
+Project Homework
+* [download as .pdf](https://drive.google.com/file/d/18tSVj6Z7CCGgAbXsuw_SkMFMTTcP6RSM/view?usp=sharing)
 
 #### Homework 5
 
@@ -45,5 +45,5 @@ Coding Questions
 * [open with Google Colab](https://colab.research.google.com/drive/11M7Ngo-Ep_rvCuPiVE35wkTcqahoCSit?usp=sharing)
 
 #### Homework 6  
- Project Homework
- * [download as .pdf](https://drive.google.com/file/d/1Q2syuvrbOdQAtJxsQ9UlTDSuUnINHV6O/view?usp=sharing)
+Project Homework
+* [download as .pdf](https://drive.google.com/file/d/1Q2syuvrbOdQAtJxsQ9UlTDSuUnINHV6O/view?usp=sharing)
