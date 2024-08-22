@@ -3,40 +3,46 @@ title: Syllabus
 ---
 # Course Content
 
-|  | Date       | Lectures and Homeworks                                                                                                                         | HW schedule   |
-|  | ---        | ---                                                                                                                                            | ---           |
-|  |            | **Part 1: Introduction to Robotics Control**                                                                                                   |               |
-|  |            | Class 1: Introduction to the course <ul><li>What is a Robot?</li><li>The anatomy of a robot</li><li>Role of intelligence in robotics</li></ul> | HW 1 released |
-|  |            | Class 2: Optimization 101                                                                                                                      |               |
-|  |            | Tutorial 1: Mechatronics 101                                                                                                                   |               |
-|  |            | Class 3: Gradient Descent                                                                                                                      |               |
-|  |            | Tutorial 2: Mechatronics - II                                                                                                                  |               |
-|  |            | Class 4: Supervised Learning                                                                                                                   | HW 1 due      |
-|  |            | Class 5: Rigid Body Transformations I                                                                                                          | HW 2 released |
-|  |            | Class 6: Rigid Body Transformations II                                                                                                         |               |
-|  |            | Class 7: Forward Kinematics                                                                                                                    |               |
-|  |            | Class 8: Inverse Kinematics                                                                                                                    | HW 2 due      |
-|  |            | Class 9: Robot Dynamics & Jacobian                                                                                                             | HW 3 released |
-|  |            | Tutorial 3: Coding Transforms                                                                                                                  |               |
-|  |            | Tutorial 4: Coding Jacobians                                                                                                                   |               |
-|  |            | [TBD] Guest Lecture                                                                                                                            |               |
-|  |            | Class 10: Introduction to Control                                                                                                              | HW 3 due      |
-|  |            | Class 11: Linear Quadratic Regulators                                                                                                          | HW 4 released |
-|  |            | Class 12: Non-Linear Dynamics and LQR Variants                                                                                                 |               |
-|  |            | **Part 2: Sensing and Fusion**                                                                                                                 |               |
-|  |            | Class 13: Robot Sensing                                                                                                                        |               |
-|  |            | Tutorial 5: Coding LQRs                                                                                                                        |               |
-|  |            | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters                                                                   | HW 4 due      |
-|  |            | Tutorial 6: [TBD] Guest Lecture                                                                                                                |               |
-|  |            | **Part 3: Planning**                                                                                                                           |               |
-|  |            | Class 15: Simultaneous Localization and Mapping                                                                                                | HW 5 released |
-|  |            | Class 16: Planning and Configuration Spaces                                                                                                    | HW 6 released |
-|  |            | Class 16: Heuristic Planning and Sample-Based Planners                                                                                         |               |
-|  |            | **Part 4: Advanced Topics**                                                                                                                    |               |
-|  |            | Class 17: Computer Vision for Robotics                                                                                                         | HW 5 due      |
-|  |            | Class 18: Model Predictive Control                                                                                                             |               |
-|  |            | Class 19: Imitation Learning                                                                                                                   |               |
-|  |            | Class 20: Reinforcement Learning                                                                                                               | HW 6 due      |
+| Date             | Lectures and Homeworks                                                        | HW schedule   |
+| ---              | ---                                                                           | ---           |
+|                  | **Part 1: Introduction to Robotics Control**                                  |               |
+| 09/03/2024 (Tue) | Class 1: Introduction to the course                                           | HW 1 Released |
+| 09/05/2024 (Thu) | Class 2: Optimization 101                                                     |               |
+| 09/10/2024 (Tue) | Tutorial 1: Mechatronics 101                                                  |               |
+| 09/12/2024 (Thu) | Class 3: Gradient Descent                                                     |               |
+| 09/17/2024 (Tue) | Tutorial 2: Mechatronics - II                                                 |               |
+| 09/19/2024 (Thu) | Class 4: Supervised Learning                                                  | HW 1 Due      |
+| 09/24/2024 (Tue) | Class 5: Rigid Body Transformations I                                         | HW 2 Released |
+| 09/26/2024 (Thu) | Class 6: Rigid Body Transformations II                                        |               |
+| 10/01/2024 (Tue) | Class 7: Forward Kinematics                                                   |               |
+| 10/03/2024 (Thu) | Class 8: Inverse Kinematics                                                   | HW 2 Due      |
+| 10/08/2024 (Tue) | Class 9: Robot Dynamics & Jacobian                                            | HW 3 Released |
+| 10/10/2024 (Thu) | Tutorial 3: Coding Transforms                                                 |               |
+| 10/15/2024 (Tue) | Tutorial 4: Coding Jacobians                                                  |               |
+| 10/17/2024 (Thu) | [TBD] Guest Lecture                                                           |               |
+| 10/22/2024 (Tue) | Class 10: Introduction to Control                                             | HW 3 Due      |
+| 10/24/2024 (Thu) | Class 11: Linear Quadratic Regulators                                         | HW 4 Released |
+| 10/29/2024 (Tue) | Class 12: Non-Linear Dynamics and LQR Variants                                |               |
+|                  | **Part 2: Sensing and Fusion**                                                |               |
+| 10/31/2024 (Thu) | Class 13: Robot Sensing                                                       |               |
+| 11/05/2024 (Tue) | Tutorial 5: Coding LQRs                                                       |               |
+| 11/07/2024 (Thu) | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters  | HW 4 Due      |
+| 11/12/2024 (Tue) | [TBD] Guest Lecture                                                           |               |
+|                  | **Part 3: Planning**                                                          |               |
+| 11/14/2024 (Thu) | Class 15: Simultaneous Localization and Mapping                               | HW 5 Released |
+| 11/19/2024 (Tue) | Class 16: Planning and Configuration Spaces                                   | HW 6 Released |
+| 11/21/2024 (Thu) | Class 17: Heuristic Planning and Sample-Based Planners                        |               |
+|                  | **Part 4: Advanced Topics**                                                   |               |
+| 11/26/2024 (Tue) | Class 18: Computer Vision for Robotics                                        | HW 5 Due      |
+| 12/03/2024 (Tue) | Class 19: Model Predictive Control                                            |               |
+| 12/05/2024 (Thu) | Class 20: Imitation Learning                                                  |               |
+| 12/10/2024 (Tue) | Class 21: Reinforcement Learning                                              | HW 6 Due      |
+
+  12/12/2024 (Thu)
+  12/17/2024 (Tue)
+  12/19/2024 (Thu)
+
+
 
 
 ## Related Courses

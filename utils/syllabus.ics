@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Class 9: Robot Dynamics & Jacobian\nHomework: HW 3 Released\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241008T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241008T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 9 / HW 3 Released
+UID:3fc16b57-82b4-4532-9401-be7bca7e3932@3fc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 17: Heuristic Planning and Sample-Based Planners\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241121T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241121T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 17
+UID:4079e3ff-23f6-4522-b6fa-84cb562b68be@4079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 11: Linear Quadratic Regulators\nHomework: HW 4 Released\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241024T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241024T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 11 / HW 4 Released
+UID:f2884db8-2a83-4a03-a9fe-1aba12ea69e1@f288.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 16: Planning and Configuration Spaces\nHomework: HW 6 Released\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241119T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241119T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 16 / HW 6 Released
+UID:5435cc65-bc09-4e3b-a245-a868f3376b8e@5435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 19: Model Predictive Control\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241203T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241203T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 19
+UID:2382a528-af23-4d84-b244-8de247d67110@2382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 3: Gradient Descent\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240912T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240912T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 3
+UID:ed769822-80de-4fff-9eb5-73faef10d3c0@ed76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 20: Imitation Learning\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241205T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241205T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 20
+UID:51176ca4-ef31-458f-adfb-2af91e4253b5@5117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 4: Supervised Learning\nHomework: HW 1 Due\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240919T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240919T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 4 / HW 1 Due
+UID:df478d57-90e5-400a-8e73-bc4946f4d73f@df47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 12: Non-Linear Dynamics and LQR Variants\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241029T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241029T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 12
+UID:cbe6f0c6-bce8-40b0-b50b-ed9c208d51dd@cbe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tutorial 1: Mechatronics 101\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240910T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240910T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Tutorial 1
+UID:a32fa925-9347-4bdd-9817-891101bee7de@a32f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[TBD] Guest Lecture: \n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241017T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241017T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] [TBD] Guest Lecture
+UID:f51500a9-a76c-4e40-85f7-058206c922bf@f515.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 1: Introduction to the course\nHomework: HW 1 Released\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240903T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240903T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 1 / HW 1 Released
+UID:7199ca86-24e8-413c-9902-5eaa3b94b912@7199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tutorial 3: Coding Transforms\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241010T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241010T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Tutorial 3
+UID:87fc41d3-549d-428a-904b-ec0431e62f08@87fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 21: Reinforcement Learning\nHomework: HW 6 Due\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241210T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241210T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 21 / HW 6 Due
+UID:563fc51a-5040-4b61-b227-2562705f4c9f@563f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 18: Computer Vision for Robotics\nHomework: HW 5 Due\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241126T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241126T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 18 / HW 5 Due
+UID:6297bf39-756a-41a4-bcd4-915e82d4a8a2@6297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tutorial 2: Mechatronics - II\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240917T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240917T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Tutorial 2
+UID:cdf6633b-16c2-40fb-8fdc-8fc81cdf2bce@cdf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[TBD] Guest Lecture: \n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241112T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241112T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] [TBD] Guest Lecture
+UID:c451d8fe-69e4-4769-a55a-84fae171d190@c451.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 10: Introduction to Control\nHomework: HW 3 Due\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241022T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241022T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 10 / HW 3 Due
+UID:f142416d-75a2-4148-8b84-9f12f9b57b10@f142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 5: Rigid Body Transformations I\nHomework: HW 2 Released\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240924T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240924T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 5 / HW 2 Released
+UID:e698e273-9c8e-4a4b-963e-5c77379a24e3@e698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 8: Inverse Kinematics\nHomework: HW 2 Due\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241003T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241003T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 8 / HW 2 Due
+UID:bf51bc47-2a1f-4fa7-aecc-0a0b66461397@bf51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 6: Rigid Body Transformations II\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240926T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240926T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 6
+UID:0482c359-eb70-47fe-a512-1e865d7f3f5d@0482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 14: Introduction to filtering: Kalman Filters\, Extended Kalman Filters\nHomework: HW 4 Due\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241107T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241107T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 14 / HW 4 Due
+UID:515be8d5-96f0-452b-bcff-6a873c69e4f9@515b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 15: Simultaneous Localization and Mapping\nHomework: HW 5 Released\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241114T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241114T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 15 / HW 5 Released
+UID:637c9e8c-c0d9-4f0e-9d8a-e2167f91cbd7@637c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 7: Forward Kinematics\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241001T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241001T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 7
+UID:f4e53ca7-55a2-4dad-9b98-a985fdf32d26@f4e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 13: Robot Sensing\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241031T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241031T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 13
+UID:a3b53892-dc98-4966-b715-03e7a3c3b738@a3b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Class 2: Optimization 101\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20240905T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20240905T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Class 2
+UID:328bdfe7-9e88-48de-9f75-ca3844fb4c31@328b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tutorial 4: Coding Jacobians\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241015T204500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241015T193000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Tutorial 4
+UID:8a7d7832-413f-433e-aebe-9e8bbe0ee5b2@8a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tutorial 5: Coding LQRs\n\nTo get to C15\, go down the stairs to the right after you enter the building.
+DTEND:20241105T214500Z
+LOCATION:Room C15\, 60 5th Ave
+DTSTART:20241105T203000Z
+SUMMARY:[CSCI-UA 480-073 Robotics] Tutorial 5
+UID:11ee9807-480e-4f7f-935a-390f10ff14cc@11ee.org
+END:VEVENT
+END:VCALENDAR
