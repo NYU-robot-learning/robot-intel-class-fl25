@@ -10,6 +10,7 @@ LaTeX Template [\[Overleaf\]](https://www.overleaf.com/read/qfgfxnxmzpwv#68bf19)
 ## Assignments
 
 ### Homework 1
+- Theory Questions <a target="_blank" href={ require("/pdf/hw1.pdf").default } download>[PDF]</a>
 - Theory Questions [\[PDF\]](../pdf/hw1.pdf)
 - Coding Questions [\[Colab\]](https://colab.research.google.com/drive/1uDhvLfXpki161_W-4JZ5v_QphJpy5rQk)
 
