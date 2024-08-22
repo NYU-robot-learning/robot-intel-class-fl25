@@ -28,5 +28,5 @@ title: Logistics
 - Assignments will use Python and Raspberry Pi 4B. We will provide you a virtual environment to install dependencies.
 
 ## Remarks
-- A student in this course is expected to act professionally. Please also follow the GSAS regulations on academic integrity found here: http://gsas.nyu.edu/page/academic.integrity
+- A student in this course is expected to act professionally. Please also follow the NYU regulations on academic integrity found here: https://cas.nyu.edu/academic-integrity.html
 - Academic accommodations are available for students with disabilities. Please contact the Moses Center for Students with Disabilities (212-998-4980 or mosescsd@nyu.edu) for further information. Students who are requesting academic accommodations are advised to reach out to the Moses Center as early as possible in the semester for assistance.
