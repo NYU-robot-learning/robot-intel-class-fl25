@@ -1,10 +1,10 @@
 ---
 title: Syllabus
 ---
-# Course Content
+## Course Content
 
-| Date             | Lectures and Homeworks                                                        | HW schedule   |
-| ---              | ---                                                                           | ---           |
+| Date             | Lectures                                                                      | Homeworks     |
+| :---             | :---                                                                          | :---          |
 |                  | **Part 1: Introduction to Robotics Control**                                  |               |
 | 09/03/2024 (Tue) | Class 1: Introduction to the course                                           | HW 1 Released |
 | 09/05/2024 (Thu) | Class 2: Optimization 101                                                     |               |
@@ -19,7 +19,7 @@ title: Syllabus
 | 10/08/2024 (Tue) | Class 9: Robot Dynamics & Jacobian                                            | HW 3 Released |
 | 10/10/2024 (Thu) | Tutorial 3: Coding Transforms                                                 |               |
 | 10/15/2024 (Tue) | Tutorial 4: Coding Jacobians                                                  |               |
-| 10/17/2024 (Thu) | [TBD] Guest Lecture                                                           |               |
+| 10/17/2024 (Thu) | Guest Lecture: TBD                                                            |               |
 | 10/22/2024 (Tue) | Class 10: Introduction to Control                                             | HW 3 Due      |
 | 10/24/2024 (Thu) | Class 11: Linear Quadratic Regulators                                         | HW 4 Released |
 | 10/29/2024 (Tue) | Class 12: Non-Linear Dynamics and LQR Variants                                |               |
@@ -27,7 +27,7 @@ title: Syllabus
 | 10/31/2024 (Thu) | Class 13: Robot Sensing                                                       |               |
 | 11/05/2024 (Tue) | Tutorial 5: Coding LQRs                                                       |               |
 | 11/07/2024 (Thu) | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters  | HW 4 Due      |
-| 11/12/2024 (Tue) | [TBD] Guest Lecture                                                           |               |
+| 11/12/2024 (Tue) | Guest Lecture: TBD                                                            |               |
 |                  | **Part 3: Planning**                                                          |               |
 | 11/14/2024 (Thu) | Class 15: Simultaneous Localization and Mapping                               | HW 5 Released |
 | 11/19/2024 (Tue) | Class 16: Planning and Configuration Spaces                                   | HW 6 Released |
@@ -38,8 +38,6 @@ title: Syllabus
 | 12/05/2024 (Thu) | Class 20: Imitation Learning                                                  |               |
 | 12/10/2024 (Tue) | Class 21: Reinforcement Learning                                              | HW 6 Due      |
 | 12/12/2024 (Thu) | TBD                                                                           |               |
-
-
 
 
 ## Related Courses
