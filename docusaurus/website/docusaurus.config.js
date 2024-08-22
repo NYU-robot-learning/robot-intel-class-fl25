@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'CSCI-UA 480-072: Introduction to Robot Intelligence',
+        title: 'CSCI-UA 480-073: Introduction to Robot Intelligence',
         logo: {
           alt: 'Site Logo',
           src: 'img/NYU.png',

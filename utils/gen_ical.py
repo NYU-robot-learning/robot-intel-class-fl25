@@ -7,6 +7,8 @@ from datetime import datetime
 COURSE_ID = "CSCI-UA 480-073 Robotics" 
 COURSE_LOCATION = "Room C15, 60 5th Ave"
 
+# TODO: office hours
+
 # Function to parse the markdown table
 def parse_markdown_table(markdown):
     lines = markdown.strip().splitlines()

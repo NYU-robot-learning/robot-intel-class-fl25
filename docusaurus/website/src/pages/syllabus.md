@@ -37,10 +37,7 @@ title: Syllabus
 | 12/03/2024 (Tue) | Class 19: Model Predictive Control                                            |               |
 | 12/05/2024 (Thu) | Class 20: Imitation Learning                                                  |               |
 | 12/10/2024 (Tue) | Class 21: Reinforcement Learning                                              | HW 6 Due      |
-
-  12/12/2024 (Thu)
-  12/17/2024 (Tue)
-  12/19/2024 (Thu)
+| 12/12/2024 (Thu) | TBD                                                                           |               |
 
 
 
