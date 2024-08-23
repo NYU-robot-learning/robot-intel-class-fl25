@@ -16,9 +16,9 @@ title: Logistics
 
 ### Course Staff & Office Hours
 - Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
-  - Office Hours:  Tue 5:00-6:00pm, @ 60 Fifth Ave, 505
-- Teaching Assistants: [Aadhithya Iyer](https://aadhithya14.github.io/) & [Venkatesh Pattabiraman](https://notvenky.github.io/)
-  - Office Hours: Friday 2:00-3:00pm, @ 60 Fifth Ave, 540
+  - Office Hours: TBD, @ 60 Fifth Ave, 505
+- Teaching Assistants: [Jeff Cui](https://jeffcui.com/)
+  - Office Hours: TBD
 
 ### Grading
 1. Homeworks and projects (90%)

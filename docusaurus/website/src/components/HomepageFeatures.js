@@ -9,20 +9,15 @@ const FeatureList = [
     description: ('Instructor'),
   },
   {
-    title: <a href="https://aadhithya14.github.io/">Aadhithya Iyer </a>,
-    image_path: './img/aadhithya.jpeg',
-    description: ('Teaching Assistant'),
-  },
-  {
-    title: (<a href="https://www.linkedin.com/in/venkatesh-pattabiraman/"> Venkatesh Pattabiraman </a>),
-    image_path: './img/venky.jpeg',
+    title: (<a href="https://jeffcui.com"> Jeff Cui </a>),
+    image_path: './img/jeff.jpeg',
     description: ('Teaching Assistant'),
   },
 ];
 
 function Feature({title,image_path, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center padding-horiz--md">
         <img src={image_path}/>
         <h3>{title}</h3>
