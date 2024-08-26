@@ -3,29 +3,30 @@ title: Logistics
 
 ---
 ## Prerequisites
-- Linear algebra, basics of probability, solving basic differential equations
+- Linear algebra, basics of probability, solving basic differential equations.
 - Coding in Python and familiarity with Linux.
 
 ## Logistical Overview
 
 ### Lecture
-- 3.30pm-4.45pm on Tuesdays and Thursdays at 60FA C15.
-- Lectures will be held twice a week in person. 
-- The google calendar may be accessed [here](https://calendar.google.com/calendar/u/0?cid=Y185NmQ5ZjE0OGJmMGQ3M2YyOTQ1NjM1YzQxNDcwN2NhYTgzNzUwODVkNGM4MTY0NDE5MjE5ZWY1ZWYwMzcxMzVlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
-- The class will *not* be recorded.
+- 3:30pm - 4:45pm, Tuesdays and Thursdays. Lectures are **not** recorded.
+- Lectures are in person at 60 Fifth Avenue (Center for Data Science), Room C15. To get there
+- Class calendar: [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y18yZjYyYTEyY2Y0YTRjZjdlZjU4NjI4NmY4YTUxMzdkZmU2OWJiZjgyMzRiNjJiNGQyMGU3MWI5ZTY2NjhmOTExQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ### Course Staff & Office Hours
 - Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
-  - Office Hours: TBD, @ 60 Fifth Ave, 505
+  - Instructor office hours are available upon request.
 - Teaching Assistants: [Jeff Cui](https://jeffcui.com/)
   - Office Hours: TBD
 
 ### Grading
 1. Homeworks and projects (90%)
-2. Discussions, both in class and in campuswire (10%)
+2. Discussions, both in class and in Campuswire (10%)
 
 ### Assignments
-- Assignments will use Python and Raspberry Pi 4B. We will provide you a virtual environment to install dependencies.
+- See [Assignments](/assignments) page for details.
+- There will be problem sets with theory and coding portions, and team projects on a rover robot.
+- We will use Python for all assignments. For the robot assignments, you will be running your code on a Raspberry Pi 4B onboard the rover.
 
 ## Remarks
 - A student in this course is expected to act professionally. Please also follow the NYU regulations on academic integrity found here: https://cas.nyu.edu/academic-integrity.html

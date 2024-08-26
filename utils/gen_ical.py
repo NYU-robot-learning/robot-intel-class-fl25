@@ -52,7 +52,7 @@ def generate_ics(syllabus, output_file="syllabus.ics"):
         event_end = eastern.localize(event_date.replace(hour=16, minute=45))
 
         event = Event()
-        event.name = f"[{COURSE_ID}] {item['title']}"
+        event.name = f"{item['title']}: {item['description']}"
         event.begin = event_start.isoformat()
         event.end = event_end.isoformat()
         event.description = item["title"] + ": " + item["description"]

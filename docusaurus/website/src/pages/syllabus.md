@@ -45,4 +45,4 @@ title: Syllabus
 2. [UW Mobile Robots](https://courses.cs.washington.edu/courses/cse490r/19sp/)
 3. [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)
 4. [Kris Hauser's Robotic Systems draft](https://motion.cs.illinois.edu/RoboticSystems/)
-
+5. [Linux shell and toolchain: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
