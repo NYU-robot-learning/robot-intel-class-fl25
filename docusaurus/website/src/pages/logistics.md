@@ -10,7 +10,7 @@ title: Logistics
 
 ### Lecture
 - 3:30pm - 4:45pm, Tuesdays and Thursdays. Lectures are **not** recorded.
-- Lectures are in person at 60 Fifth Avenue (Center for Data Science), Room C15. To get there
+- Lectures are in person at 60 Fifth Avenue (Center for Data Science), Room C15. To get there, enter the building and go down the stairs to your right.
 - Class calendar: [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y18yZjYyYTEyY2Y0YTRjZjdlZjU4NjI4NmY4YTUxMzdkZmU2OWJiZjgyMzRiNjJiNGQyMGU3MWI5ZTY2NjhmOTExQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ### Course Staff & Office Hours
