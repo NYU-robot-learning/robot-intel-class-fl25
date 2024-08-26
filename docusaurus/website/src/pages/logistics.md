@@ -9,7 +9,8 @@ title: Logistics
 ## Logistical Overview
 
 ### Lecture
-- 3:30pm - 4:45pm, Tuesdays and Thursdays. Lectures are **not** recorded.
+- 3:30pm - 4:45pm, Tuesdays and Thursdays.
+- The first couple of lectures will be on Zoom so that everyone can participate (including those on the waitlist).
 - Lectures are in person at 60 Fifth Avenue (Center for Data Science), Room C15. To get there, enter the building and go down the stairs to your right.
 - Class calendar: [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18yZjYyYTEyY2Y0YTRjZjdlZjU4NjI4NmY4YTUxMzdkZmU2OWJiZjgyMzRiNjJiNGQyMGU3MWI5ZTY2NjhmOTExQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 

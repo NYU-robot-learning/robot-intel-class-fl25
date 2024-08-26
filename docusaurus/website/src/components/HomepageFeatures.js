@@ -13,11 +13,16 @@ const FeatureList = [
     image_path: './img/jeff.jpeg',
     description: ('Teaching Assistant'),
   },
+  {
+    title: (<a href=""> Mohit Warke </a>),
+    image_path: './img/mohit.jpg',
+    description: ('Teaching Assistant'),
+  },
 ];
 
 function Feature({title,image_path, description}) {
   return (
-    <div className={clsx('col col--6')}>
+    <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
         <img src={image_path}/>
         <h3>{title}</h3>
