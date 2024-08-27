@@ -17,7 +17,7 @@ title: Logistics
 ### Course Staff & Office Hours
 - Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
   - Instructor office hours are available upon request.
-- Teaching Assistants: [Jeff Cui](https://jeffcui.com/)
+- Teaching Assistants: [Jeff Cui](https://jeffcui.com/), [Mohit Warke](./)
   - Office Hours: TBD
 
 ### Grading
