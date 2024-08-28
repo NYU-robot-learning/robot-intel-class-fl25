@@ -8,6 +8,5 @@ Robotics is a transformative field at the intersection of engineering, artificia
 
 
 ### What is expected of you?
-This class is aimed towards advanced undergraduates and particularly towards students who want to learn robotics and robot AI, but who have never worked on a robot before. This will be a HW and project driven class. There will be no mid-term or final exams. Instead, you will be expected to implement concepts discussed and taught in this class. A portion of the lecture slots will be devoted to hands-on tutorials taught by the course teaching assistant (please see the syllabus for details).
-
+This class is aimed towards advanced undergraduates and particularly towards students who want to learn robotics and robot AI, but who have never worked on a robot before. This will be a homework and project driven class. There will be no mid-term or final exams. Instead, you will be expected to implement concepts discussed and taught in this class. A portion of the lecture slots will be devoted to hands-on tutorials taught by the course teaching assistant (please see the syllabus for details).
 
