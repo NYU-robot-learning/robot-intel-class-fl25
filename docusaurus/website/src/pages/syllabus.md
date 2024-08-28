@@ -7,8 +7,8 @@ title: Syllabus
 | :---             | :---                                                                          | :---          |
 |                  | **Part 1: Introduction to Robotics Control**                                  |               |
 | 09/03/2024 (Tue) | Class 1: Introduction to the course                                           | HW 1 Released |
-| 09/05/2024 (Thu) | Class 2: Optimization 101                                                     |               |
-| 09/10/2024 (Tue) | Tutorial 1: Mechatronics 101                                                  |               |
+| 09/05/2024 (Thu) | Tutorial 1: numpy/scipy, rover setup                                          |               |
+| 09/10/2024 (Tue) | Class 2: Optimization 101                                                     |               |
 | 09/12/2024 (Thu) | Class 3: Gradient Descent                                                     |               |
 | 09/17/2024 (Tue) | Tutorial 2: Mechatronics - II                                                 |               |
 | 09/19/2024 (Thu) | Class 4: Supervised Learning                                                  | HW 1 Due      |
