@@ -7,7 +7,7 @@ title: Syllabus
 | :---             | :---                                                                          | :---          |
 |                  | **Part 1: Introduction to Robotics Control**                                  |               |
 | 09/03/2024 (Tue) | Class 1: Introduction to the course                                           | HW 1 Released |
-| 09/05/2024 (Thu) | Tutorial 1: numpy/scipy, rover setup [Colab](https://colab.research.google.com/drive/1cMrIZlbJsjwxc2AR_mCPlEbCcLNb23gC?usp=sharing)                                         |               |
+| 09/05/2024 (Thu) | Tutorial 1: numpy/scipy, rover setup [Colab](https://colab.research.google.com/drive/1n-2gJZuIFrY_Osbf6ahiQIbzSQQsy8b2?usp=sharing)                                         |               |
 | 09/10/2024 (Tue) | Class 2: Optimization 101                                                     |               |
 | 09/12/2024 (Thu) | Class 3: Gradient Descent                                                     |               |
 | 09/17/2024 (Tue) | Tutorial 2: Mechatronics - II                                                 |               |
