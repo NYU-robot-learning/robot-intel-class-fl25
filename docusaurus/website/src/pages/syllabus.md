@@ -17,7 +17,7 @@ title: Syllabus
 | 10/01/2024 (Tue) | Class 7: Forward Kinematics                                                   |               |
 | 10/03/2024 (Thu) | Class 8: Inverse Kinematics                                                   | HW 2 Due      |
 | 10/08/2024 (Tue) | Class 9: Robot Dynamics & Jacobian                                            | HW 3 Released |
-| 10/10/2024 (Thu) | Tutorial 3: Coding Transforms                                                 |               |
+| 10/10/2024 (Thu) | Tutorial 3: Coding Transforms [\[Colab\]](https://colab.research.google.com/drive/12qRfBy7aaR6E-IcfjvqMNN2wPayKvYSu?usp=sharing) |               |
 | 10/15/2024 (Tue) | NO CLASS                                                                      |               |
 | 10/17/2024 (Thu) | Tutorial 4: Coding Jacobians                                                  |               |
 | 10/22/2024 (Tue) | Guest Lecture: TBD                                                            |               |
