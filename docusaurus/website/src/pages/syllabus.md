@@ -19,16 +19,16 @@ title: Syllabus
 | 10/08/2024 (Tue) | Class 9: Robot Dynamics & Jacobian                                            | HW 3 Released |
 | 10/10/2024 (Thu) | Tutorial 3: Coding Transforms [\[Colab\]](https://colab.research.google.com/drive/12qRfBy7aaR6E-IcfjvqMNN2wPayKvYSu?usp=sharing) |               |
 | 10/15/2024 (Tue) | NO CLASS                                                                      |               |
-| 10/17/2024 (Thu) | Tutorial 4: Coding Jacobians                                                  |               |
+| 10/17/2024 (Thu) | Tutorial 4: Coding Jacobians [\[Colab\]](https://colab.research.google.com/drive/1O53q8dStaBhe5eDDsCvol3aiibWV5yor?usp=sharing)                                                 |               |
 | 10/22/2024 (Tue) | Guest Lecture: TBD                                                            |               |
 | 10/24/2024 (Thu) | Class 10: Introduction to Control                                             | HW 3 Due      |
 | 10/29/2024 (Tue) | Class 11: Linear Quadratic Regulators                                         | HW 4 Released |
 | 10/31/2024 (Thu) | Class 12: Non-Linear Dynamics and LQR Variants                                |               |
 |                  | **Part 2: Sensing and Fusion**                                                |               |
 | 11/05/2024 (Tue) | Class 13: Robot Sensing                                                       |               |
-| 11/07/2024 (Thu) | Tutorial 5: Coding LQRs                                                       |               |
+| 11/07/2024 (Thu) | Tutorial 5: Coding LQRs [\[Colab\]](https://colab.research.google.com/drive/1T8AHlhCvQPfE-_hHVaFr8RBBMMN_AJBV?usp=sharing)                                                      |               |
 | 11/12/2024 (Tue) | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters  | HW 4 Due      |
-| 11/14/2024 (Thu) | Guest Lecture: TBD                                                            |               |
+| 11/14/2024 (Thu) | (Guest Lecture) Raunaq Bhirangi: Tactile Sensing for Robotic Manipulation     |               |
 |                  | **Part 3: Planning**                                                          |               |
 | 11/19/2024 (Tue) | Class 15: Simultaneous Localization and Mapping                               | HW 5 Released |
 | 11/21/2024 (Thu) | Class 16: Planning and Configuration Spaces                                   | HW 6 Released |
