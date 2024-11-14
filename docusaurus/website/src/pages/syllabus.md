@@ -28,7 +28,7 @@ title: Syllabus
 | 11/05/2024 (Tue) | Class 13: Robot Sensing                                                       |               |
 | 11/07/2024 (Thu) | Tutorial 5: Coding LQRs [\[Colab\]](https://colab.research.google.com/drive/1T8AHlhCvQPfE-_hHVaFr8RBBMMN_AJBV?usp=sharing)                                                      |               |
 | 11/12/2024 (Tue) | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters  | HW 4 Due      |
-| 11/14/2024 (Thu) | Raunaq Bhirangi: Tactile Sensing for Robotic Manipulation                     |               |
+| 11/14/2024 (Thu) | Irmak Güzey: Tactile Sensing for Robotic Manipulation                         |               |
 |                  | **Part 3: Planning**                                                          |               |
 | 11/19/2024 (Tue) | Class 15: Simultaneous Localization and Mapping                               | HW 5 Released |
 | 11/21/2024 (Thu) | Class 16: Planning and Configuration Spaces                                   | HW 6 Released |
