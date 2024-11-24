@@ -30,8 +30,8 @@ title: Syllabus
 | 11/12/2024 (Tue) | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters  | HW 4 Due      |
 | 11/14/2024 (Thu) | Irmak Güzey: Tactile Sensing for Robotic Manipulation                         |               |
 |                  | **Part 3: Planning**                                                          |               |
-| 11/19/2024 (Tue) | Class 15: Simultaneous Localization and Mapping                               | HW 5 Released |
-| 11/21/2024 (Thu) | Class 16: Planning and Configuration Spaces                                   | HW 6 Released |
+| 11/19/2024 (Tue) | Class 15: Filtering (continued), Planning and Configuration Spaces            | HW 5 Released |
+| 11/21/2024 (Thu) | Class 16: Filtering (continued), Graph Search Algorithms                      | HW 6 Released |
 | 11/26/2024 (Tue) | Class 17: Heuristic Planning and Sample-Based Planners                        |               |
 |                  | **Part 4: Advanced Topics**                                                   |               |
 | 12/03/2024 (Tue) | Class 18: Computer Vision for Robotics                                        | HW 5 Due      |
