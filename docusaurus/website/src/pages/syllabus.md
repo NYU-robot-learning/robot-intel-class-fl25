@@ -37,7 +37,7 @@ title: Syllabus
 | 12/03/2024 (Tue) | Class 18: Computer Vision for Robotics                                        | HW 5 Due      |
 | 12/05/2024 (Thu) | Mahi Shafiullah: Home Robotics                                                |               |
 | 12/10/2024 (Tue) | Class 20: Imitation Learning                                                  |               |
-| 12/12/2024 (Thu) | Class 21: Reinforcement Learning                                              | HW 6 Due      |
+| 12/12/2024 (Thu) | Gaoyue Zhou: World Models for Robotics                                        | HW 6 Due      |
                      
 ## Related Courses
 1. [MIT OCW Introduction to Robotics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/)
