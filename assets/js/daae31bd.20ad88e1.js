@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel_fl25=self.webpackChunkrobot_intel_fl25||[]).push([[679],{7911:function(l){l.exports=JSON.parse('{"permalink":"/robot-intel-class-fl25/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

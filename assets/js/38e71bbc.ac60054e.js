@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrobot_intel_fl25=self.webpackChunkrobot_intel_fl25||[]).push([[958],{6115:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/robotics","name":"robotics","count":1,"permalink":"/blog/tags/robotics"}')}}]);
