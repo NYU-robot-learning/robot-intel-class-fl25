@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel_fl25=self.webpackChunkrobot_intel_fl25||[]).push([[405],{2321:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/review","name":"review","count":1,"permalink":"/blog/tags/review"}')}}]);
