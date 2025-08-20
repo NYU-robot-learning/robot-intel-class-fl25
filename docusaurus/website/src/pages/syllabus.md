@@ -35,10 +35,10 @@ title: Syllabus
 |                  | **Part 4: Advanced Topics**                                                   |               |
 | 11/25/2025 (Tue) | Class 18: Computer Vision for Robotics                                        | HW 5 Due      |
 | 11/27/2025 (Thu) | NO CLASS (Thanksgiving)                                                       |               |
-| 12/02/2025 (Thu) | Mahi Shafiullah: Home Robotics                                                |               |
-| 12/04/2025 (Tue) | Class 20: Imitation Learning                                                  |               |
-| 12/09/2025 (Thu) | Gaoyue Zhou: World Models for Robotics                                        | HW 6 Due      |
-| 12/11/2025 (Tue) | EXTRA DAY                                                                     |               |
+| 12/02/2025 (Tue) | Mahi Shafiullah: Home Robotics                                                |               |
+| 12/04/2025 (Thu) | Class 20: Imitation Learning                                                  |               |
+| 12/09/2025 (Tue) | Gaoyue Zhou: World Models for Robotics                                        | HW 6 Due      |
+| 12/11/2025 (Thu) | EXTRA DAY                                                                     |               |
                      
 ## Related Courses
 1. [MIT OCW Introduction to Robotics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/)
