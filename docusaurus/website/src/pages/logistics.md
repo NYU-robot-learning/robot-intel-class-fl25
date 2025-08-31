@@ -12,7 +12,7 @@ title: Logistics
 - 3:30pm - 4:45pm, Tuesdays and Thursdays.
 - The first couple of lectures will be on Zoom so that everyone can participate (including those on the waitlist).
 - Lectures are in person at 60 Fifth Avenue (Center for Data Science), Room C15. To get there, enter the building and go down the stairs to your right.
-- Class calendar: [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18yZjYyYTEyY2Y0YTRjZjdlZjU4NjI4NmY4YTUxMzdkZmU2OWJiZjgyMzRiNjJiNGQyMGU3MWI5ZTY2NjhmOTExQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+- Class calendar: [Google Calendar](https://calendar.google.com/calendar/u/0?cid=bnl1aW50cm90b3JvYm90aW50ZWxsaWdlbmNlQGdtYWlsLmNvbQ).
 
 ### Course Staff & Office Hours
 - Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
