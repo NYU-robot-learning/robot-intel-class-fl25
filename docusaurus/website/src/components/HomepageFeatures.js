@@ -14,7 +14,7 @@ const FeatureList = [
     description: ('Teaching Assistant'),
   },
   {
-    title: (<a href=""> Irmak Guzey </a>),
+    title: (<a href="https://irmakguzey.github.io/"> Irmak Guzey </a>),
     image_path: './img/irmak.jpeg',
     description: ('Teaching Assistant'),
   },
