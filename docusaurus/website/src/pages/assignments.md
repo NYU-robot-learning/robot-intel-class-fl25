@@ -4,7 +4,7 @@ title: Assignments
 
 ## Resources
 
-LaTeX Template [\[Overleaf\]](https://www.overleaf.com/read/qfgfxnxmzpwv#68bf19) [\[Download\]](https://www.overleaf.com/project/66c76561e46c6fef96792171/download/zip)
+LaTeX Template [\[Overleaf\]](https://www.overleaf.com/read/qjypwrsrbksw#8f94f0) [\[Download\]](https://www.overleaf.com/project/68b4b8730a0ac2302954e2fb/download/zip)
 
 ---
 ## Assignments
