@@ -17,8 +17,8 @@ title: Logistics
 ### Course Staff & Office Hours
 - Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
   - Instructor office hours are available upon request.
-- Teaching Assistants: [Jeff Cui](https://jeffcui.com/), [Mohit Warke](./)
-  - Office Hours: Friday 1:00 - 2:00pm, @ 60 Fifth Avenue, 502
+- Teaching Assistants: [Jaron Cui](https://jaron-cui.github.io/), [Irmak Guzey](./)
+  - Office Hours: Friday 1:00 - 2:00pm, @ 60 Fifth Avenue, 5th floor seating (subject to room change soon)
 
 ### Grading
 1. Homeworks and projects (90%)

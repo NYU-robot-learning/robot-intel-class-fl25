@@ -9,13 +9,13 @@ const FeatureList = [
     description: ('Instructor'),
   },
   {
-    title: (<a href="https://jeffcui.com"> Jeff Cui </a>),
-    image_path: './img/jeff.jpeg',
+    title: (<a href="https://jaron-cui.github.io/"> Jaron Cui </a>),
+    image_path: './img/jaron.jpg',
     description: ('Teaching Assistant'),
   },
   {
-    title: (<a href=""> Mohit Warke </a>),
-    image_path: './img/mohit.jpg',
+    title: (<a href=""> Irmak Guzey </a>),
+    image_path: './img/irmak.jpeg',
     description: ('Teaching Assistant'),
   },
 ];
