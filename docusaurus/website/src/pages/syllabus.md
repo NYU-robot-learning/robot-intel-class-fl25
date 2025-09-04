@@ -7,8 +7,8 @@ title: Syllabus
 | :---             | :---                                                                          | :---          |
 |                  | **Part 1: Introduction to Robotics Control**                                  |               |
 | 09/02/2025 (Tue) | Class 1: Introduction to the course                                           | HW 1 Released |
-| 09/04/2025 (Thu) | Tutorial 1: numpy/scipy, rover setup [\[Colab\]](https://colab.research.google.com/drive/1n-2gJZuIFrY_Osbf6ahiQIbzSQQsy8b2?usp=sharing) [\[Colab with solutions\]](https://colab.research.google.com/drive/1fYJ6Z7BhCYdiLymmeYHeb8jMJ4jmc3XN?usp=sharing)                                         |               |
-| 09/09/2025 (Tue) | Class 2: Optimization 101                                                     |               |
+| 09/04/2025 (Thu) | Class 2: Optimization 101                                                     |               |
+| 09/09/2025 (Tue) | Tutorial 1: numpy/scipy [\[Colab\]](https://colab.research.google.com/drive/1n-2gJZuIFrY_Osbf6ahiQIbzSQQsy8b2?usp=sharing) [\[Colab with solutions\]](https://colab.research.google.com/drive/1fYJ6Z7BhCYdiLymmeYHeb8jMJ4jmc3XN?usp=sharing)                                                 |               |
 | 09/11/2025 (Thu) | Class 3: Gradient Descent                                                     |               |
 | 09/16/2025 (Tue) | Tutorial 2: Rover Setup                                                       |               |
 | 09/18/2025 (Thu) | Class 4: Supervised Learning                                                  | HW 1 Due      |
