@@ -11,6 +11,7 @@ title: Syllabus
 | 09/09/2025 (Tue) | Tutorial 1: numpy/scipy [\[Colab\]](https://colab.research.google.com/drive/1n-2gJZuIFrY_Osbf6ahiQIbzSQQsy8b2?usp=sharing) [\[Colab with solutions\]](https://colab.research.google.com/drive/1fYJ6Z7BhCYdiLymmeYHeb8jMJ4jmc3XN?usp=sharing)                                                 |               |
 | 09/11/2025 (Thu) | Class 3: Gradient Descent                                                     |               |
 | 09/16/2025 (Tue) | Tutorial 2: Rover Setup                                                       |               |
+| 09/18/2025 (Thu) | NO CLASS (Guest Lecture Tomorrow)                                             |               |
 | 09/19/2025 (Fri) | Guest Lecture: [Ken Goldberg](https://goldberg.berkeley.edu/) 11:00am-12:00pm @ Forbes building                 | HW 1 Due      |
 | 09/23/2025 (Tue) | Class 4: Supervised Learning                                                  | HW 2 Released |
 | 09/25/2025 (Thu) | Class 5: Rigid Body Transformations I                                         |               |
