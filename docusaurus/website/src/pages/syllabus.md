@@ -12,7 +12,7 @@ title: Syllabus
 | 09/11/2025 (Thu) | Class 3: Gradient Descent                                                     |               |
 | 09/16/2025 (Tue) | Tutorial 2: Rover Setup                                                       |               |
 | 09/18/2025 (Thu) | NO CLASS (Guest Lecture Tomorrow)                                             |               |
-| 09/19/2025 (Fri) | Guest Lecture: [Ken Goldberg](https://goldberg.berkeley.edu/) 11:00am-12:00pm @ Forbes building                 | HW 1 Due      |
+| 09/19/2025 (Fri) | Guest Lecture: [Ken Goldberg](https://goldberg.berkeley.edu/) [11:00am-12:00pm @ 60 5th Ave, room 150](https://cs.nyu.edu/dynamic/about/news/colloquium/1381/)             | HW 1 Due      |
 | 09/23/2025 (Tue) | Class 4: Supervised Learning                                                  | HW 2 Released |
 | 09/25/2025 (Thu) | Class 5: Rigid Body Transformations I                                         |               |
 | 09/30/2025 (Tue) | Class 6: Rigid Body Transformations II                                        |               |
