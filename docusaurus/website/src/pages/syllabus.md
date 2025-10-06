@@ -17,9 +17,9 @@ title: Syllabus
 | 09/25/2025 (Thu) | Class 5: Rigid Body Transformations I                                         |               |
 | 09/30/2025 (Tue) | Class 6: Rigid Body Transformations II                                        |               |
 | 10/02/2025 (Thu) | Class 7: Forward Kinematics                                                   | HW 2 Due      |
-| 10/07/2025 (Tue) | Class 8: Inverse Kinematics                                                   | HW 3 Released |
-| 10/09/2025 (Thu) | Class 9: Robot Dynamics & Jacobian                                            |               |
-| 10/14/2025 (Tue) | Tutorial 3: Coding Transforms [\[Colab\]](https://colab.research.google.com/drive/12qRfBy7aaR6E-IcfjvqMNN2wPayKvYSu?usp=sharing)               |               |
+| 10/07/2025 (Tue) | Tutorial 3: Coding Transforms [\[Colab\]](https://colab.research.google.com/drive/1YTNNZDlzYW94w4ce5DT9jnzs6HNkl5Jk?usp=sharing)                                                   | HW 3 Released |
+| 10/09/2025 (Thu) | Class 8: Inverse Kinematics                                            |               |
+| 10/14/2025 (Tue) | Class 9: Robot Dynamics & Jacobian               |               |
 | 10/16/2025 (Thu) | Tutorial 4: Coding Jacobians [\[Colab\]](https://colab.research.google.com/drive/1O53q8dStaBhe5eDDsCvol3aiibWV5yor?usp=sharing)               |               |
 | 10/21/2025 (Tue) | Class 10: Introduction to Control                                             | HW 3 Due      |
 | 10/23/2025 (Thu) | Class 11: Linear Quadratic Regulators                                         | HW 4 Released |
