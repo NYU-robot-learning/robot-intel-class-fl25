@@ -21,7 +21,7 @@ title: Syllabus
 | 10/09/2025 (Thu) | Class 8: Inverse Kinematics                                                   |               |
 | 10/14/2025 (Tue) | NO CLASS (Legislative Monday)                                                 |               |
 | 10/16/2025 (Thu) | Class 9: Robot Dynamics & Jacobian                                            |               |
-| 10/21/2025 (Tue) | Tutorial 4: Coding Jacobians [\[Colab\]](https://colab.research.google.com/drive/1O53q8dStaBhe5eDDsCvol3aiibWV5yor?usp=sharing) | HW 3 Due      |
+| 10/21/2025 (Tue) | Tutorial 4: Forward & Inverse Kinematics [\[Colab\]](https://colab.research.google.com/drive/1nSUP6DA20fthR5JE062tyOB__Y4iIm6w?usp=sharing)[\[Videos\]](https://drive.google.com/drive/folders/1VvOdAvSjZhszd4qydBJdG3a_8loqbzWi?usp=sharing) | HW 3 Due      |
 | 10/23/2025 (Thu) | Class 10: Introduction to Control                                             | HW 4 Released |
 | 10/28/2025 (Tue) | Class 11: Linear Quadratic Regulators                                         |               |
 | 10/30/2025 (Thu) | Class 12: Non-Linear Dynamics and LQR Variants                                |               |
