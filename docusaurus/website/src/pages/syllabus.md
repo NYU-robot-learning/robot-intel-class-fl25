@@ -25,21 +25,21 @@ title: Syllabus
 | 10/23/2025 (Thu) | Class 10: Introduction to Control                                             | HW 4 Released |
 | 10/28/2025 (Tue) | Class 11: Linear Quadratic Regulators                                         |               |
 | 10/30/2025 (Thu) | Class 12: Non-Linear Dynamics and LQR Variants                                |               |
+| 11/04/2025 (Tue) | Irmak Güzey: Supervised Policy Learning Part 1                                |               |
+| 11/06/2025 (Thu) | Irmak Güzey: Supervised Policy Learning Part 2                                | HW 4 Due      |
 |                  | **Part 2: Sensing and Fusion**                                                |               |
-| 11/04/2025 (Tue) | Class 13: Robot Sensing                                                       |               |
-| 11/06/2025 (Thu) | Tutorial 5: Coding LQRs [\[Colab\]](https://colab.research.google.com/drive/1T8AHlhCvQPfE-_hHVaFr8RBBMMN_AJBV?usp=sharing)     | HW 4 Due      |
-| 11/11/2025 (Tue) | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters  |               |
-| 11/13/2025 (Thu) | Irmak Güzey: Tactile Sensing for Robotic Manipulation                         | HW 5 Released |
+| 11/11/2025 (Tue) | Class 13: Robot Sensing                                                       |               |
+| 11/13/2025 (Thu) | Tutorial 5: Coding LQRs [\[Colab\]](https://colab.research.google.com/drive/1T8AHlhCvQPfE-_hHVaFr8RBBMMN_AJBV?usp=sharing)    | HW 5 Released |
+| 11/18/2025 (Tue) | Class 14: Introduction to filtering: Kalman Filters, Extended Kalman Filters  | HW 6 Released |
+| 11/20/2025 (Thu) | Irmak Güzey: Tactile Sensing for Robotic Manipulation                         |               |
 |                  | **Part 3: Planning**                                                          |               |
-| 11/18/2025 (Tue) | Class 15: Filtering (continued), Planning and Configuration Spaces            | HW 6 Released |
-| 11/20/2025 (Thu) | Class 16: Filtering (continued), Graph Search Algorithms                      |               |
-| 11/25/2025 (Tue) | Class 17: Heuristic Planning and Sample-Based Planners                        | HW 5 Due      |
+| 11/25/2025 (Tue) | Class 15: Filtering (continued), Planning and Configuration Spaces            | HW 5 Due      |
 | 11/27/2025 (Thu) | NO CLASS (Thanksgiving)                                                       |               |
+| 12/02/2025 (Tue) | Class 16: Filtering (continued), Graph Search Algorithms                      |               |
+| 12/04/2025 (Thu) | Class 17: Heuristic Planning and Sample-Based Planners                        |               |
 |                  | **Part 4: Advanced Topics**                                                   |               |
-| 12/02/2025 (Tue) | Class 18: Computer Vision for Robotics                                        |               |
-| 12/04/2025 (Thu) | Mahi Shafiullah: Home Robotics                                                |               |
-| 12/09/2025 (Tue) | Class 20: Imitation Learning                                                  | HW 6 Due      |
-| 12/11/2025 (Thu) | Gaoyue Zhou: World Models for Robotics                                        |               |
+| 12/09/2025 (Tue) | Class 18: Computer Vision for Robotics                                        | HW 6 Due      |
+| 12/11/2025 (Thu) | Class 20: Imitation Learning                                                  |               |
                      
 ## Related Courses
 1. [MIT OCW Introduction to Robotics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/)
