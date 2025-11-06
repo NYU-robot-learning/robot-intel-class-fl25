@@ -25,8 +25,8 @@ title: Syllabus
 | 10/23/2025 (Thu) | Class 10: Introduction to Control                                             | HW 4 Released |
 | 10/28/2025 (Tue) | Class 11: Linear Quadratic Regulators                                         |               |
 | 10/30/2025 (Thu) | Class 12: Non-Linear Dynamics and LQR Variants                                |               |
-| 11/04/2025 (Tue) | Irmak Güzey: Supervised Policy Learning Part 1                                |               |
-| 11/06/2025 (Thu) | Irmak Güzey: Supervised Policy Learning Part 2                                | HW 4 Due      |
+| 11/04/2025 (Tue) | Irmak Güzey: Supervised Policy Learning Part 1  [\[Website\]](https://supervised-robot-learning.github.io/)  |               |
+| 11/06/2025 (Thu) | Irmak Güzey: Supervised Policy Learning Part 2  [\[Colab\]](https://colab.research.google.com/drive/1WSHA9MquGhiEPGbIhN_ZWa6lrXy3o8Bx?usp=sharing) [\[Slides\]](https://www.dropbox.com/scl/fi/f5n4ywa7s6uukk19i62ff/Section-3b.-Diffusion-policy-Hands-on-supervised-policy-learning-part-II.pdf?rlkey=adbaanpiiekx4kpb23ci2hd58&st=vdepvm3c&dl=0)  | HW 4 Due      |
 |                  | **Part 2: Sensing and Fusion**                                                |               |
 | 11/11/2025 (Tue) | Class 13: Robot Sensing                                                       |               |
 | 11/13/2025 (Thu) | Tutorial 5: Coding LQRs [\[Colab\]](https://colab.research.google.com/drive/1T8AHlhCvQPfE-_hHVaFr8RBBMMN_AJBV?usp=sharing)    | HW 5 Released |
